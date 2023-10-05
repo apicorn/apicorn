@@ -1,5 +1,7 @@
-### Hi there 👋
+Hello.
+Here's a basic summary of things I've been working on.
 
+I'm taking the software testing courses from the University of Minnesota on coursera (highly recommend!).  Sample coursework from this can be found in this repository: 
 <!--
 **apicorn/apicorn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
